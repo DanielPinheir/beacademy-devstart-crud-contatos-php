@@ -5,6 +5,6 @@
 <hr>
 
 - CRUD 
-- Projeto de _Criação de um **CRUD** (create, read, upgrade, delete)_ realizado no Programa DevStart da Paylivre junto com a Be. Academy.
+- Projeto de _Criação de um **CRUD** (create, read, updade, delete)_ realizado no Programa DevStart da Paylivre junto com a Be. Academy.
 - Instrutor: [Alessandro Feitoza](https://www.linkedin.com/in/alessandrofeitoza/)
 - Desenvolvedor: [Daniel Pinheiro](https://github.com/DanielPinheir) 
