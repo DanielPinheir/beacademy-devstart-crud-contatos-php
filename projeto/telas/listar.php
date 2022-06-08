@@ -20,6 +20,7 @@
         echo '<td>' . $partes[2] . '</td>';
         echo "<td>
           <a href='/excluir?id={$posicao}' class='btn btn-danger btn-sm'>Excluir</a>
+          <a href='/editar?id={$posicao}' class='btn btn-warning btn-sm'>Editar</a>
         </td>";
       echo'</tr>';
     }  
